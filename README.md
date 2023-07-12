@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
  npm install
 <br> npm run start
 <!--
